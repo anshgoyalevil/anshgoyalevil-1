@@ -251,7 +251,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <text x="15" y="27">Hi, I'm Ansh Goyal</text>
   </g>
 
   <!-- typing 2 -->
@@ -275,7 +275,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
+    <text x="15" y="27">I live in Rohtak, Haryana where it’s supposed to be</text>
     <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
@@ -300,8 +300,10 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for {psTime} now.</text>
+    <text x="15" y="27">I'm an open source enthusiast and a student</text>
+        <text x="15" y="50">
+          of IIIT Agartala and pursuing B.Tech'25 CSE
+        </text>
   </g>
 
   <!-- typing 4 -->
@@ -326,8 +328,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      You can find me on LinkedIn at
+      <a xlink:href="https://www.linkedin.com/in/thisisanshg/">https://linkedin.com/in/thisisanshg/</a>
     </text>
   </g>
 
